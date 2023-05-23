@@ -1,4 +1,4 @@
-# Proyecto para prueba tecnica v1.0
+# Proyecto para prueba tecnica v1.1
 # Modo de compilación
 
 1. abra el proyecto
